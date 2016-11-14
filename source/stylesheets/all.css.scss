@@ -14,11 +14,6 @@
 @import "pages/*";
 @import "vendor/*";
 
-@import url("components/avatar.css");
-@import url("components/banner.css");
-@import url("components/footer.css");
-@import url("components/card.css");
-
 body {
   margin: 0;
   font-family: Open-sans, sans-serif;
@@ -36,7 +31,7 @@ h2 {
   padding: 100px 0;
 }
 .wrapper-grey {
-  background: $gray;
+  background: $gray-lighter;
 }
 
 .container h3 {
