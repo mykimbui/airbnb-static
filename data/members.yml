@@ -1,4 +1,6 @@
-- name: Some product
+boris:
   image: some_product.png
-- name: Other product
+seb:
+  image: other_product.png
+romain:
   image: other_product.png
